@@ -10,4 +10,4 @@ Thank you
 
 ## Summary
 Its a nice repo
-Python is a powerful language
+Python is a powerful language and also a fantastic language
